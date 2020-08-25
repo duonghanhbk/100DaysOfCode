@@ -1,0 +1,19 @@
+{
+    "name": "100daysofcode",
+    "version": "1.0.0",
+    "description": "100DaysOfCode challenge",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/duonghanhbk/100DaysOfCode.git"
+    },
+    "author": "@HanhNguyen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/duonghanhbk/100DaysOfCode/issues"
+    },
+    "homepage": "https://github.com/duonghanhbk/100DaysOfCode#readme"
+}
